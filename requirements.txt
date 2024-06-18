@@ -2,3 +2,4 @@ pytz
 aiohttp
 pyromod
 pymongo
+umongo
